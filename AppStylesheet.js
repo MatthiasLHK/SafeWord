@@ -11,11 +11,10 @@ const AppStylesheet = StyleSheet.create({
         flex: 1,
         resizeMode: 'stretch',
         alignItems: 'center',
-        justifyContent: 'center',
     },
     safeIcon: {
-
-    }
+        top: 40
+    },
 })
 
 export default AppStylesheet;
